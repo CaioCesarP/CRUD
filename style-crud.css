@@ -1,0 +1,28 @@
+* {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background: #5e4f4d;
+}
+
+
+/*.container-formulario {
+    display: flex;
+    justify-content: stretch;
+    min-height: 2vh;
+    width: 68px;
+}*/
+
+h5 {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    width: 340px;
+    margin: 2px;
+}
